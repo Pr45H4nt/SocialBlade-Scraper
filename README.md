@@ -1,6 +1,3 @@
-# socialbladescraper
-A scrapy project to scrape youtube channel stats from scrapy
-
 # YouTube Top 100 Channels Scrapy Project
 
 Welcome! This project is about scraping the top 100 YouTube channels from [Social Blade](https://socialblade.com/youtube/top/100). The HTML structure of the website was a bit complicated, but no worries, we managed to get through it!
