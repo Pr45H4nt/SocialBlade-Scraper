@@ -23,6 +23,31 @@ Welcome! This project is about scraping the top 100 YouTube channels from [Socia
 ## 📦 Output
 
 The scraped data will be saved in a CSV file. You can easily open it using spreadsheet software like Microsoft Excel or Google Sheets to analyze the data.
+## 📋 Data Columns
+
+The scraper extracts the following columns:
+
+- SocialBlade Url
+- Channel Name
+- Channel ID
+- Channel Link
+- Uploads
+- Subscribers
+- Views
+- Country
+- Channel Type
+- Created Date
+- Social Blade Rank
+- Subscriber Rank
+- Video View Rank
+- Country Rank
+- People Rank
+- Estimated Monthly Income
+- Subscribers Last 30 Days
+- Views Last 30 Days
+- Yearly Income
+- Daily Subscribers Average
+- Daily Views Average
 
 ## 🔍 What Was Tricky?
 
